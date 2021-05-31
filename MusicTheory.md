@@ -2,14 +2,21 @@
 
 ## Triads
 
-Maj:  1  3  5
-Aug:  1  3 #5
-Min:  1 b3  5
-Dim:  1 b3 b5
-Sus2: 1  2  5
-Sus4: 1  4  5
-Lyd:  1 #4  5
-Phry: 1 b2  5
+Maj -  1  3  5
+
+Aug -  1  3 #5
+
+Min -  1 b3  5
+
+Dim -  1 b3 b5
+
+Sus2 - 1  2  5
+
+Sus4 - 1  4  5
+
+Lyd -  1 #4  5
+
+Phry - 1 b2  5
 
 ## Chord progressions and harmony - Rick Beato
 
