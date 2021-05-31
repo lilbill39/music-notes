@@ -42,8 +42,8 @@ Minor key counterpoint above
 
 Major key counterpoint below
 
-Cantus:       c  d  e  f  g  d  f  e  d  c
-Counterpoint: c  b  a  c  d  b  a  g  b  c
+Cantus:       c  d  e  f  g  d  f  e  d  c  
+Counterpoint: c  b  a  c  d  b  a  g  b  c  
 Intervals:    1  m3 5  4  4  m3 m6 6 m3 1
 
 Problems:
@@ -52,9 +52,9 @@ Problems:
 
 Fixed:
 
-Cantus:       c  d  e  f  g  d  f  e  d  c
-Counterpoint: c1 B  A  d  c  B  A  G  B  c
-Intervals:    1  m3 5  m3 5  m3 m6 6 m3  1
+Cantus:       c  d  e  f  g  d  f  e  d  c  
+Counterpoint: c1 B  A  d  c  B  A  G  B  c  
+Intervals:    1  m3 5  m3 5  m3 m6 6 m3  1  
 
 ## Second species counterpoint
 

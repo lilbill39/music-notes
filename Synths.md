@@ -2,17 +2,18 @@
 
 ## Terminology
 
-**subtractive** - Start with a harmonically rich signal and remove frequencies using filters.
-**additive** -
-**frequency modulation (FM)** - The frequency of a waveform is changed by modulating its frequency with a modulator. The frequency of an oscillator is altered "in accordance with the amplitude of a modulating signal". Start with simple, pure signals like sines and use FM to modify sounds.
+**subtractive** - Start with a harmonically rich signal and remove frequencies using filters.  
+**additive** -  
+**frequency modulation (FM)** - The frequency of a waveform is changed by modulating its   frequency with a modulator. The frequency of an oscillator is altered "in accordance with the amplitude of a modulating signal". Start with simple, pure signals like sines and use FM to modify sounds.  
 
 Can be controlled with an lfo. At low frequency, the lfo imparts vibrato-like effects. Once lfo reaches audio frequencies, FM starts to control tambre.
-**operator** - Chain of an oscillator/amplifier with amplitude controlled by an envelope
-**oscillator** - Signal generator providing audio signal. Frequency is in audible spectrum.
-**filter** - Integrated signal filtering. Can choose from filter types
-**amplifier** - Controls volume. Often has panning.
-**lfo** - Low frequency oscillator used to time/control synth parameters. Often below frequency spectrum.
-**noise** -
+
+**operator** - Chain of an oscillator/amplifier with amplitude controlled by an envelope  
+**oscillator** - Signal generator providing audio signal. Frequency is in audible spectrum  
+**filter** - Integrated signal filtering. Can choose from filter types  
+**amplifier** - Controls volume. Often has panning.  
+**lfo** - Low frequency oscillator used to time/control synth parameters. Often below frequency spectrum.  
+**noise** -  
 
 ## Ableton Analog
 
