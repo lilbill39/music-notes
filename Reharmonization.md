@@ -1,5 +1,7 @@
 # Reharmonization
 
+8-bit Music Theory
+
 https://www.youtube.com/watch?v=ys0zXG_sZ4Y
 
 Reharmonization lets you recontextualize a melody to give different feelings
