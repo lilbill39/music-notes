@@ -4,4 +4,4 @@ This is a collection of music theory, composition, and production notes amassed 
 
 Music I've created with this knowledge
 
-[![ry on soundcloud](./resources/soundcloud_orange_transparent_32.png)](https://soundcloud.com/lilbill39/) [![ry on bandcamp](./resources/bandcamp-button-bc-circle-green-32.png)](https://rymusic.bandcamp.com/)
+[![Ryan Livingston on soundcloud](./resources/Spotify_Icon_RGB_Green32.png)](https://open.spotify.com/artist/40F4L0EEesGOoMd7b0EM2i) [![Ryan Livingston on soundcloud](./resources/soundcloud_orange_transparent_32.png)](https://soundcloud.com/lilbill39/) [![Ryan Livingston on bandcamp](./resources/bandcamp-button-bc-circle-green-32.png)](https://rymusic.bandcamp.com/)
