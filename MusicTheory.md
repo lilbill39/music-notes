@@ -70,7 +70,24 @@ PD T D T
 
 IV-I-vi-V  
 
+Axis progression  
 I-V-vi-IV  
+
+Minor axis  
+vi-IV-I-V  
+
+Andalusian cadence  
+i-bVII-bVI-V
+
+i-bVII-bVI-bVII
+
+Doo-wop changes
+I-vi-IV-V  
+
+I-V-IV-V  
+
+Mixolydian vamp  
+I-bVII-IV-I  
 
 #### Common alterations/borrowed chords
 III, v, iv
